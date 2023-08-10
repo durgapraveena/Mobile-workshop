@@ -5,7 +5,7 @@
 # Day - 2
 1) Lab Exercise-4: Form Creation and Field Validation (Login & Account)
 2) Lab Exercise-5: Computing Arithmetic Operations  (For Deposit, Withdrawal, Interest.)
-3) Lab Exercise-6: Generating Random Numbers  (Password) 
+3) Lab Exercise-6: Generating Random Numbers  (Password, OTP's, Keys) 
 
 # Day - 3
 1) Lab Exercise-7: Generation & Scanning of Human/Machine Codes (QR Code, Barcode and Captcha)
